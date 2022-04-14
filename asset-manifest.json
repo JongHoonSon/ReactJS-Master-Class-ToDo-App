@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ReactJS-ToDo-App/static/js/main.a5ef6666.js",
-    "index.html": "/ReactJS-ToDo-App/index.html",
-    "main.a5ef6666.js.map": "/ReactJS-ToDo-App/static/js/main.a5ef6666.js.map"
+    "main.js": "/ReactJS-Master-Class-ToDo-App/static/js/main.77f4c390.js",
+    "index.html": "/ReactJS-Master-Class-ToDo-App/index.html",
+    "main.77f4c390.js.map": "/ReactJS-Master-Class-ToDo-App/static/js/main.77f4c390.js.map"
   },
   "entrypoints": [
-    "static/js/main.a5ef6666.js"
+    "static/js/main.77f4c390.js"
   ]
 }
